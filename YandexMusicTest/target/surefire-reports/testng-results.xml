@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="14517" started-at="2020-08-16T20:26:35 EET" finished-at="2020-08-16T20:26:49 EET">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="14517" started-at="2020-08-16T20:26:35 EET" finished-at="2020-08-16T20:26:49 EET">
+      <class name="YandexMusic.YandexMusicTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:YandexMusic.YandexMusicTest@6380e9e9]" name="start" is-config="true" duration-ms="5696" started-at="2020-08-16T20:26:35 EET" finished-at="2020-08-16T20:26:41 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="PositiveTestAuthorization()[pri:0, instance:YandexMusic.YandexMusicTest@6380e9e9]" name="PositiveTestAuthorization" duration-ms="8365" started-at="2020-08-16T20:26:41 EET" finished-at="2020-08-16T20:26:49 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveTestAuthorization -->
+      </class> <!-- YandexMusic.YandexMusicTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
